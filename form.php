@@ -18,7 +18,6 @@ if ($_SERVER['REQUEST_METHOD'] === "POST"){
 }
 
 ?>
-<li><img src=""></li>
 
 <h1>Profile</h1>
 <div class="profile">
